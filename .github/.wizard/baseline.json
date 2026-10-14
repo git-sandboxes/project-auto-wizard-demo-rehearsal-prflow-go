@@ -1,0 +1,42 @@
+{
+  "templateVersion": "0.17.0",
+  "installedAt": "2026-10-14 16:35:30",
+  "files": {
+    "PROJECT-COMMON-AI-PR-SUMMARY.yaml": {
+      "installed": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4",
+      "rendered": "sha256:19f828de5f1c5cb9e3510c42d258fdc5aa398d0164d1f8634f4785b6abc59fb4"
+    },
+    "PROJECT-COMMON-AUTO-CHANGELOG-CONTROL.yaml": {
+      "installed": "sha256:799fc718f3ebf0fa0d521c7eb3a90c26df7eb69e3e4f2178495cde2159795f72",
+      "rendered": "sha256:799fc718f3ebf0fa0d521c7eb3a90c26df7eb69e3e4f2178495cde2159795f72"
+    },
+    "PROJECT-COMMON-ISSUE-HELPER.yaml": {
+      "installed": "sha256:846a177deae41e160eccb21fa66b95a6ccb593286c526832f2662b8e6e00b262",
+      "rendered": "sha256:846a177deae41e160eccb21fa66b95a6ccb593286c526832f2662b8e6e00b262"
+    },
+    "PROJECT-COMMON-README-VERSION-UPDATE.yaml": {
+      "installed": "sha256:b1b23fa86b7b6d6f1cacc256abcd8b8f2d46cee46012e1f361289b46d7940cb9",
+      "rendered": "sha256:b1b23fa86b7b6d6f1cacc256abcd8b8f2d46cee46012e1f361289b46d7940cb9"
+    },
+    "PROJECT-COMMON-RELEASE-PUBLISH.yaml": {
+      "installed": "sha256:963b3e0cc7e2c01ff2edcd6ee8f840fd8337f9215f61c810a4ff545767359a87",
+      "rendered": "sha256:963b3e0cc7e2c01ff2edcd6ee8f840fd8337f9215f61c810a4ff545767359a87"
+    },
+    "PROJECT-COMMON-VERSION-CONTROL.yaml": {
+      "installed": "sha256:53d0d86cd2fc029e1d0110e3bc86a560b82b531dd86ce900608c50edffc6006e",
+      "rendered": "sha256:53d0d86cd2fc029e1d0110e3bc86a560b82b531dd86ce900608c50edffc6006e"
+    },
+    "PROJECT-GO-CI.yaml": {
+      "installed": "sha256:13b69d82fa9668f95bcd1e185307def8cc1613f2afbb72445637c5a867946426",
+      "rendered": "sha256:13b69d82fa9668f95bcd1e185307def8cc1613f2afbb72445637c5a867946426"
+    },
+    "PROJECT-GO-PR-PREVIEW.yaml": {
+      "installed": "sha256:1632e6a4840e5977c2d21939525424c57cf005b32b62c036d2d1e2a3dd5ee187",
+      "rendered": "sha256:1632e6a4840e5977c2d21939525424c57cf005b32b62c036d2d1e2a3dd5ee187"
+    },
+    "PROJECT-GO-SIMPLE-CICD.yaml": {
+      "installed": "sha256:122d840dcb407700e64b7fd2b83881312ca804748f9fc152a19cfb5678336412",
+      "rendered": "sha256:122d840dcb407700e64b7fd2b83881312ca804748f9fc152a19cfb5678336412"
+    }
+  }
+}
